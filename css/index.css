@@ -145,6 +145,10 @@ footer nav a {
     text-decoration: none;
 }
 
+.top-image img{
+    margin-bottom: 20px;
+    
+}
 .top-section{
     align-items: center;
     
