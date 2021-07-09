@@ -226,8 +226,33 @@ footer nav a {
   .middle-content .boxes .box:nth-child(10){
       background-color: dodgerblue;
   }
-  /*nav a:hover{
-    color:#eb3a45;
-    background:white;
-  }*/
   
+
+
+  /*ABOUT PAGE STYLES*/
+
+   
+  .section-how-we{
+      display: flex;
+      align-items: center;
+      
+  }
+
+
+  .places-colabo{
+      display: flex;
+  }
+
+  .horizontal_dotted_line{
+    border-bottom: 1px dotted black;
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  } 
+
+  .horizontal_dotted_lines{
+    border-bottom: 1px dotted black;
+    width:90%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  } 
