@@ -191,7 +191,6 @@ footer nav a {
     font-weight: bold;
     color: black;
     
-   
     
   }
 
@@ -230,15 +229,31 @@ footer nav a {
 
 
   /*ABOUT PAGE STYLES*/
-
-   
+.about h2{
+    font-weight: bold;
+}
+ .last p{
+     margin-bottom: 20px;
+ }
+ .section-how-we p{
+    margin-bottom: 20px;  
+ }
+.section-how-we h2{
+    margin-top: 10px;
+    font-weight: bold;
+}
   .section-how-we{
       display: flex;
       align-items: center;
       
   }
-
-
+.places-colabo p{
+    margin-bottom: 20px;
+}
+.places-colabo h2{
+    margin-top: 10px;
+    font-weight: bold;
+}
   .places-colabo{
       display: flex;
   }
