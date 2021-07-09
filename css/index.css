@@ -144,3 +144,130 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.top-image img{
+    margin-bottom: 20px;
+    
+}
+.top-section{
+    align-items: center;
+    
+}   
+
+.top-section a{
+
+   
+    width: 40px;
+}
+
+
+.top-nav img{
+    
+    margin-bottom: -5px;
+    margin-top: 20px;
+
+}
+
+.top-nav nav{
+    display:flex;
+    height: 40px;
+    width:75%;
+    text-align:justify;
+    
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    align-items: center;
+    margin-left:190px;
+    /*background-color:#eb3a45;
+    padding-top:10px;*/
+  }
+  .top-nav a{
+    margin-right:10%;
+    text-decoration:none;
+    font-family:sans-serif;
+    font-size:14px;
+    
+    font-weight: bold;
+    color: black;
+    
+    
+  }
+
+
+  .middle-content .boxes .box :first-child{
+      background-color:teal ;
+  }
+  .middle-content .boxes .box:nth-child(2){
+      background-color: gold;
+  }
+  .middle-content .boxes .box:nth-child(3){
+      background-color: cadetblue;
+  }
+  .middle-content .boxes .box:nth-child(4){
+      background-color: coral;
+  }
+  .middle-content .boxes .box:nth-child(5){
+      background-color: crimson;
+  }
+  .middle-content .boxes .box:nth-child(6){
+      background-color: forestgreen;
+  }
+  .middle-content .boxes .box:nth-child(7){
+      background-color: darkorchid;
+  }
+  .middle-content .boxes .box:nth-child(8){
+      background-color: hotpink;
+  }
+  .middle-content .boxes .box:nth-child(9){
+      background-color: indigo;
+  }
+  .middle-content .boxes .box:nth-child(10){
+      background-color: dodgerblue;
+  }
+  
+
+
+  /*ABOUT PAGE STYLES*/
+.about h2{
+    font-weight: bold;
+}
+ .last p{
+     margin-bottom: 20px;
+ }
+ .section-how-we p{
+    margin-bottom: 20px;  
+ }
+.section-how-we h2{
+    margin-top: 10px;
+    font-weight: bold;
+}
+  .section-how-we{
+      display: flex;
+      align-items: center;
+      
+  }
+.places-colabo p{
+    margin-bottom: 20px;
+}
+.places-colabo h2{
+    margin-top: 10px;
+    font-weight: bold;
+}
+  .places-colabo{
+      display: flex;
+  }
+
+  .horizontal_dotted_line{
+    border-bottom: 1px dotted black;
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  } 
+
+  .horizontal_dotted_lines{
+    border-bottom: 1px dotted black;
+    width:90%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  } 
